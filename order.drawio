@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T03:38:11.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="8FkKbkge7WvdpIv5F9qC" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T03:50:48.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sPjH8mpjHvMQmRJhxXGj" version="16.5.2" type="github">
   <diagram id="UbNyLUca0hssICbXglK_" name="Page-1">
     <mxGraphModel dx="1541" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q195cHMQYqPVQ3Ld-JVz-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="760" height="240" as="geometry" />
+          <mxGeometry x="40" y="240" width="760" height="440" as="geometry" />
         </mxCell>
         <mxCell id="Q195cHMQYqPVQ3Ld-JVz-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="760" height="130" as="geometry" />
@@ -71,6 +71,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="399" as="sourcePoint" />
             <mxPoint x="690" y="346" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q195cHMQYqPVQ3Ld-JVz-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="680" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Q195cHMQYqPVQ3Ld-JVz-21" value="销售成本/收入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q195cHMQYqPVQ3Ld-JVz-22" value="财务部门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="80" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q195cHMQYqPVQ3Ld-JVz-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q195cHMQYqPVQ3Ld-JVz-3" target="Q195cHMQYqPVQ3Ld-JVz-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="570" as="sourcePoint" />
+            <mxPoint x="1030" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

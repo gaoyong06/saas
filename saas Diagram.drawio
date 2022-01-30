@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T02:36:44.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="5SYrrGGw0BGBCzCJFepz" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T02:37:03.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="ZxZM1j1N2C7IUcyKzsrF" version="16.5.2" type="github">
   <diagram id="yDlQqX4NMxVAkaXIl09R" name="Page-1">
     <mxGraphModel dx="1550" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="69" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BThvKviPsCQtGSirkgmr-58" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , , &amp;#34;malgun gothic&amp;#34; , sans-serif ; font-size: 13.6px ; line-height: 16.8px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Account&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;（账号角色权限&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;）&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BThvKviPsCQtGSirkgmr-59" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , , &amp;#34;malgun gothic&amp;#34; , sans-serif ; font-size: 13.6px ; line-height: 16.8px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , , , &amp;#34;malgun gothic&amp;#34; , sans-serif ; font-size: 13.6px ; line-height: 16.8px&quot;&gt;GoodsManager&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;（商品进销存&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; text-align: center ; background-color: rgb(248 , 249 , 250)&quot;&gt;）&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="500" width="120" height="60" as="geometry" />
